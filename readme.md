@@ -142,7 +142,7 @@ _Here [Documentation](https://example.com)_
 - [x] Added styling
 - [x] Cleaned up page format
 - [x] Added contact form
-- [x] Remake and restructure page using what I have learned
+- [] Remake and restructure page using what I have learned
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
