@@ -179,9 +179,9 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Francisco Rodriguez Santana - francisco.s.rodriguez1@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/francjr3/francjr3.github.io)
+Project Link: [https://github.com/francjr3/repo_name](https://github.com/francjr3/francjr3.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
